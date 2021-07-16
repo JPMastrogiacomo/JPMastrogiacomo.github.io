@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Math in Computational Mathematics, University of Waterloo, 2021
-* H.B.Sc. in Applied Mathematics, University of Toronto, 2019
+* H.B.Sc. in Applied Mathematics, University of Toronto, 2020
 
 Work experience
 ======
