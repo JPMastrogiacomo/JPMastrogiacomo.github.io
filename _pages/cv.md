@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* Research Assistant: Satellite Remote Sensing (Summer 2020-Summer 2021)
+* Research Assistant: Satellite Remote Sensing (Summer 2020, Summer 2021)
   * Environment and Climate Change Canada, Climate Research Division
   * Quantification of power plant CO<sub>2</sub> emissions with OCO-2/3
   * Supervisor: Dr. Ray Nassar
