@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* M.Math in Computational Mathematics, University of Waterloo, 2021
-* H.B.Sc. in Applied Mathematics, University of Toronto, 2020
+* M.Math in Computational Mathematics, University of Waterloo, 2020
+* H.B.Sc. in Applied Mathematics, University of Toronto, 2019
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant: Satellite Remote Sensing (Summer 2020-Summer 2021)
+  * Environment and Climate Change Canada, Climate Research Division
+  * Quantification of power plant CO<sub>2</sub> emissions with OCO-2/3
+  * Supervisor: Dr. Ray Nassar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant: Fluid Dynamics (Fall 2020)
+  * University of Waterloo, Department of Applied Mathematics
+  * Mathematical modelling of gravity-driven flow down porous incline
+  * Supervisor: Professor Serge D'Alessio
   
 Skills
 ======
