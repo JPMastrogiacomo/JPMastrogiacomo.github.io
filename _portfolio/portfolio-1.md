@@ -12,4 +12,4 @@ predictions. The stability predictions of the first-order model are also compare
 to those of a second-order model. The influence of porosity and other flow parameters is
 investigated both analytically and numerically.
 
-[Download paper here](http://JPMastrogiacomo.github.io/files/JPMResearchReport.pdf)
+[Download report here](http://JPMastrogiacomo.github.io/files/JPMResearchReport.pdf)
