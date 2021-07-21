@@ -1,8 +1,13 @@
 ---
-title: "Master's Research Report - University of Waterloo"
-excerpt: "Gravity-Driven Flow Over a Porous Inclined Surface"
+title: "Gravity-Driven Flow Over a Porous Inclined Surface"
 collection: portfolio
+type: "Testingggg"
+permalink: /talks/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
+
 The two-dimensional problem of gravity-driven flow of a thin layer of fluid down a
 porous inclined surface is discussed. A velocity profile based on the steady-state flow is
 used to derive a first-order Integrated Boundary Layer model. A linear stability analysis is conducted while non-linear numerical simulations are used to validate the stability
