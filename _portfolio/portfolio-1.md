@@ -4,4 +4,4 @@ excerpt: "Gravity"
 collection: portfolio
 ---
 
-[Download paper here](http://academicpages.github.io/files/JPMResearchReport.pdf)
+[Download paper here](http://JPMastrogiacomo.github.io/files/JPMResearchReport.pdf)
