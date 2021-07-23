@@ -8,7 +8,7 @@ venue: 'Some journal'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Soon to be citation'
 ---
-Will be abou remote sensing probably.\
+Will be abou remote sensing probably.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
