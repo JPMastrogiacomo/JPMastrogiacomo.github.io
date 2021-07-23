@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Waterloo, Faculty of Mathematics"
 date: 2014-01-01
-location: "City, Country"
+location: "Waterloo, Ontario"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I have been a TA for the following mathematics courses:\
+-Calculus 3 for Chemical Engineering (Fall 2020)\
+-Calculus 2 for Engineering (Winter 2020)\
+-Calculus 2 for the Sciences (Winter 2020)\
+-Calculus 1 for Engineering (Fall 2019)\
+-Calculus 1 for Sciences (Fall 2019)
