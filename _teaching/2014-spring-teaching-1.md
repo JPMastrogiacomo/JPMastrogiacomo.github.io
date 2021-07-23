@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Mathematics Teaching Assistant UWaterloo"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
