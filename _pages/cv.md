@@ -25,15 +25,6 @@ Research experience
   * University of Waterloo, Department of Applied Mathematics
   * Development of mathematical model of gravity-driven flow down porous incline
   * Supervisor: Professor Serge D'Alessio
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,6 +44,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
