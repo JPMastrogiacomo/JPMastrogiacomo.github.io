@@ -5,7 +5,7 @@ excerpt: "Talk given as part of MAT477 - University of Toronto (Fall 2018)"
 collection: portfolio
 ---
 
-Course supervised by Dmitry Panchenko. 
+Course supervised by Dmitry Panchenko.\
 Main resource: The Probabilistic Method by Noga Alon & Joel Spencer (2008).
 
 [Download report here](http://JPMastrogiacomo.github.io/files/Talagrand_convex_hull_concentration_inequality.pdf)
