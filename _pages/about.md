@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My personal website.
+In fall 2021 I will be starting a Master's degree in Atmospheric Physics at the University of Toronto. I have also completed an M.Math at the University of Waterloo and a B.Sc. at the University of Toronto.\
+
+I gained an interest in the Earth's atmosphere and remote sensing during my time as a research assistant at Environment and Climate Change Canada. I was helping Dr. Ray Nassar quantify CO<sub>2</sub> emissions from power plants using NASA's OCO-2 and OCO-3 instruments. 
