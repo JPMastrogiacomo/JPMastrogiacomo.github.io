@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* M.Sc. in Atmospheric Physics, University of Toronto, Commencing Fall 2021
 * M.Math in Computational Mathematics, University of Waterloo, 2020
 * H.B.Sc. in Applied Mathematics, University of Toronto, 2019
 
