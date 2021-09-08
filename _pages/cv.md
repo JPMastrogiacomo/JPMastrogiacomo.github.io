@@ -24,7 +24,7 @@ Research experience
 
 * Research Assistant: Fluid Dynamics (Fall 2020)
   * University of Waterloo, Department of Applied Mathematics
-  * Development of mathematical model of gravity-driven flow down porous incline
+  * Development of mathematical model of gravity-driven flow over a porous inclined surface
   * Supervisor: Professor Serge D'Alessio
 
 Publications
