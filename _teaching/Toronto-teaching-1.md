@@ -7,4 +7,4 @@ venue: "University of Toronto, Department of Physics"
 date: 2021-09-01
 location: "Toronto, Ontario"
 ---
-Physics 180: Elements of Physics I (Fall 2021)
+-Physics 180: Elements of Physics I (Fall 2021)
