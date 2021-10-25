@@ -8,7 +8,6 @@ date: 2019-01-01
 location: "Waterloo, Ontario"
 ---
 
-I have been a TA for the following mathematics courses:\
 -Calculus 3 for Chemical Engineering (Fall 2020)\
 -Calculus 2 for Engineering (Winter 2020)\
 -Calculus 2 for the Sciences (Winter 2020)\
