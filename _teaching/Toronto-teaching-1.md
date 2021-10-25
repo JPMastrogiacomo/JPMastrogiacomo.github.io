@@ -1,5 +1,5 @@
 ---
-title: "Physics Teaching Assistant at University of Waterloo"
+title: "Physics Teaching Assistant"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
