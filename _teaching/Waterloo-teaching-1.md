@@ -2,7 +2,7 @@
 title: "Mathematics Teaching Assistant"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/waterloo-teaching-1
 venue: "University of Waterloo, Faculty of Mathematics"
 date: 2019-01-01
 location: "Waterloo, Ontario"
