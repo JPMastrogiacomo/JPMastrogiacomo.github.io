@@ -47,5 +47,6 @@ Teaching
 
 Awards
 ======
+* Ontario Graduate Scholarship (OGS), University of Toronto, 2022
 * Margaret Slater Scholarship, University of Toronto, 2017
 * President’s Entrance Scholarship, University of Toronto, 2015
