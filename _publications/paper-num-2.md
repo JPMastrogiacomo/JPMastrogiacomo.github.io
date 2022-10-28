@@ -10,5 +10,3 @@ citation: 'Serge D’Alessio, Jon-Paul Mastrogiacomo, & Jean-Paul Pascal (2021).
 ---
 
 [Download paper here](https://doi.org/10.1088/1742-6596/2090/1/012114)
-
-Recommended citation: D'Alessio S, Mastrogiacomo J-P, & Pascal J-P (2021) J. Phys.: Conf. Ser. 2090 012114.
