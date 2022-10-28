@@ -6,7 +6,7 @@ excerpt: 'In this investigation we propose several generalized first-order integ
 date: 2021-07-01
 venue: 'Journal of Physics: Conference Series'
 paperurl: 'https://doi.org/10.1088/1742-6596/2090/1/012114'
-citation: 'Serge D’Alessio, Jon-Paul Mastrogiacomo, & Jean-Paul Pascal (2021). J. Phys.: Conf. Ser. 2090 012114'
+citation: 'D’Alessio S, Mastrogiacomo JP, & Pascal JP (2021). J. Phys.: Conf. Ser. 2090 012114.'
 ---
 
 [Download paper here](https://doi.org/10.1088/1742-6596/2090/1/012114)
