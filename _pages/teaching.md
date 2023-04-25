@@ -14,7 +14,7 @@ author_profile: true
 Physics Teaching Assistant, University of Toronto
 ---
 -Physics 131: Introduction to Physics I (Fall 2022)\
--Physics 132: Introduction to Physics II (Winter 2022)\
+-Physics 132: Introduction to Physics II (Winter 2022/2023)\
 -Physics 180: Elements of Physics I (Fall 2021)
 
 
