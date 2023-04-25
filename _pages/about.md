@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral student in Atmospheric Physics at the University of Toronto under the supervision of Professor Debra Wunch. I have also completed a BSc/MSc at the University of Toronto and a MMath at the University of Waterloo.
+I am a Doctoral candidate in Atmospheric Physics at the University of Toronto under the supervision of Professor Debra Wunch. I have also completed a BSc/MSc at the University of Toronto and a MMath at the University of Waterloo.
 
 My research focuses on estimating anthropogenic greenhouse gas emissions with satellite measurements. I am especially interested in methane which is 80 times more potent than CO<sub>2</sub> at trapping heat in a 20-year period. I am working on deriving trace gas enhancement ratios involving methane and comparing them to inventories. I am also working on a high-resolution inversion of TROPOMI methane observations over Southern Ontario.
 
