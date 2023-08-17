@@ -63,6 +63,7 @@ University of Waterloo
 
 Awards
 ======
+*CPE Research Day Bronze Price Winner, Climate Positive Energy Initiative, 2023
 * Climate Solutions Scholar, Climate Positive Energy Initiative, 2023
 * Ontario Graduate Scholarship (OGS), University of Toronto, 2022
 * Margaret Slater Scholarship, University of Toronto, 2017
