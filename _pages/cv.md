@@ -68,3 +68,10 @@ Awards
 * Ontario Graduate Scholarship (OGS), University of Toronto, 2022
 * Margaret Slater Scholarship, University of Toronto, 2017
 * President’s Entrance Scholarship, University of Toronto, 2015
+
+Professional Activities
+======
+* Graduate Program Committee, 2023 - present
+* Graduate Department Academic Appeals Committee, 2023 - present
+* Noble Seminar/Lecture Series Committee, 2022 - present
+
