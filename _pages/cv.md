@@ -47,10 +47,11 @@ Talks
 ======
 Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images (IWGGMS-17)
 
-Teaching
+Teaching Assistantships
 ======
 University of Toronto
-* Physics 131: Introduction to Physics I (Fall 2022)
+* Physics 407: Computational Physics (Fall 2023)
+* Physics 131: Introduction to Physics I (Fall 2022/2023)
 * Physics 132: Introduction to Physics II (Winter 2022/2023)
 * Physics 180: Elements of Physics I (Fall 2021)
 
