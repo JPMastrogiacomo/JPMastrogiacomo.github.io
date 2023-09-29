@@ -72,7 +72,8 @@ Awards
 
 Professional Activities
 ======
-* Graduate Program Committee, 2023 - present
-* Graduate Department Academic Appeals Committee, 2023 - present
+* Physics Graduate Program Committee, 2023 - present
+* Physics Graduate Department Academic Appeals Committee, 2023 - present
+* School of the Environment Graduate Affairs Committee, 2023 - present
 * Noble Seminar/Lecture Series Committee, 2022 - present
 
