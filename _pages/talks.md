@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios
+---
+AGU 2023\
+Poster Presentation
+
+Reductions in methane emissions will play an important role in meeting short-term emissions reduction goals, and feature prominently in many municipal government net-zero climate plans. Therefore, we must be able to accurately monitor emissions reductions. However, urban methane emissions are difficult to estimate, and bottom-up inventories often disagree with measurements. The use of enhancement ratios derived from satellite measurements of trace gases is a promising tool for estimating emissions and tracking emission reduction efforts. In this work, we use measurements of methane (CH4), carbon monoxide (CO), nitrogen dioxide (NO2), and carbon dioxide (CO2) from TROPOMI, OCO-2, and OCO-3 to derive CH4 enhancement ratios. We first verify our methodology with ground-based instruments and find promising agreement in the calculated enhancement ratios. We then compare our enhancement ratios measured over cities worldwide to bottom-up inventories and identify discrepancies.
+
+
 Quantifying CO<sub>2</sub> Emissions from Smaller Point Sources by Using Multiple OCO-3 Images
 ---
 IWGGMS-17\
