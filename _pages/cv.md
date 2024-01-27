@@ -35,7 +35,9 @@ Research experience
 
 Publications
 ======
-MacDonald CG, __Mastrogiacomo J-P__, Laughner JL, Hedelius JK, Nassar R, & Wunch D. (2023). Estimating enhancement ratios of nitrogen dioxide, carbon monoxide and carbon dioxide using satellite observations. Atmospheric Chemistry and Physics, 23(6), 3493-3516. https://doi.org/10.5194/acp-23-3493-2023.
+Cusworth DH, Thorpe AK, Miller CE, Ayasse AK, Jiorle R, Duren RM, Nassar R, __Mastrogiacomo J-P__, & Nelson, RR: Two years of satellite-based carbon dioxide emission quantification at the world's largest coal-fired power plants, Atmospheric Chemistry and Physics, 23, 14577–14591. <https://doi.org/10.5194/acp-23-14577-2023>.
+
+MacDonald CG, __Mastrogiacomo J-P__, Laughner JL, Hedelius JK, Nassar R, & Wunch D. (2023). Estimating enhancement ratios of nitrogen dioxide, carbon monoxide and carbon dioxide using satellite observations. Atmospheric Chemistry and Physics, 23(6), 3493-3516. <https://doi.org/10.5194/acp-23-3493-2023>.
 
 Nassar R, Moeini O, __Mastrogiacomo J-P__, O’Dell CW, Nelson RR, Kiel M, Chatterjee A, Eldering A, & Crisp D (2022). Tracking CO2 emission reductions from space: A case study at Europe’s largest fossil fuel power plant. Frontiers in Remote Sensing, 3, 1028240. <https://doi.org/10.3389/frsen.2022.1028240>.
 
@@ -45,11 +47,13 @@ D’Alessio S, __Mastrogiacomo J-P__, & Pascal J-P (2021). Journal of Physics: C
   
 Talks
 ======
+Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (AGU 2023)
 Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images (IWGGMS-17)
 
 Teaching Assistantships
 ======
 University of Toronto
+* ENV 237: Physics of the Changing Environment (Winter 2024)
 * Physics 407: Computational Physics (Fall 2023)
 * Physics 131: Introduction to Physics I (Fall 2022/2023)
 * Physics 132: Introduction to Physics II (Winter 2022/2023)
