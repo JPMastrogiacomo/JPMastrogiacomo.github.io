@@ -48,6 +48,7 @@ D’Alessio S, __Mastrogiacomo J-P__, & Pascal J-P (2021). Journal of Physics: C
 Talks
 ======
 Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (AGU 2023)
+
 Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images (IWGGMS-17)
 
 Teaching Assistantships
@@ -68,8 +69,9 @@ University of Waterloo
 
 Awards
 ======
-* CPE Research Day Bronze Price Winner, Climate Positive Energy Initiative, 2023
-* Climate Solutions Scholar, Climate Positive Energy Initiative, 2023
+* CGCS Graduate Student Research Award, Centre for Global Change Science (CGCS), 2024
+* CPE Research Day Bronze Price Winner, Climate Positive Energy (CPE), 2023
+* Climate Solutions Scholar, Climate Positive Energy (CPE), 2023
 * Ontario Graduate Scholarship (OGS), University of Toronto, 2022
 * Margaret Slater Scholarship, University of Toronto, 2017
 * President’s Entrance Scholarship, University of Toronto, 2015
