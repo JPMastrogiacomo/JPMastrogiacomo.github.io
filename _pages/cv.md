@@ -47,6 +47,7 @@ D’Alessio S, __Mastrogiacomo J-P__, & Pascal J-P (2021). Journal of Physics: C
   
 Talks
 ======
+* Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (IWGGMS-20)
 * Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (AGU 2023)
 * Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images (IWGGMS-17)
 
@@ -54,8 +55,8 @@ Teaching Assistantships
 ======
 University of Toronto
 * ENV 237: Physics of the Changing Environment (Winter 2024)
-* Physics 407: Computational Physics (Fall 2023)
-* Physics 131: Introduction to Physics I (Fall 2022/2023)
+* Physics 407: Computational Physics (Fall 2023/2024)
+* Physics 131: Introduction to Physics I (Fall 2022/2023/2024)
 * Physics 132: Introduction to Physics II (Winter 2022/2023)
 * Physics 180: Elements of Physics I (Fall 2021)
 
@@ -77,8 +78,8 @@ Awards
 
 Professional Activities
 ======
-* Secretary - Graduate Environmental Students’ Association, 2023 - present
-* School of the Environment Graduate Affairs Committee, 2023 - present
-* Physics Graduate Program Committee, 2023 - present
 * Noble Seminar/Lecture Series Committee, 2022 - present
+* Secretary - Graduate Environmental Students’ Association, 2023 - present
+* School of the Environment Graduate Affairs Committee, 2023 - 2024
+* Physics Graduate Program Committee, 2023 - 2024
 
