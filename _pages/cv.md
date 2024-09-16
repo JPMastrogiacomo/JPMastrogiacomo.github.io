@@ -51,22 +51,6 @@ Talks
 * Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (AGU 2023)
 * Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images (IWGGMS-17)
 
-Teaching Assistantships
-======
-University of Toronto
-* ENV 237: Physics of the Changing Environment (Winter 2024)
-* Physics 407: Computational Physics (Fall 2023/2024)
-* Physics 131: Introduction to Physics I (Fall 2022/2023/2024)
-* Physics 132: Introduction to Physics II (Winter 2022/2023)
-* Physics 180: Elements of Physics I (Fall 2021)
-
-University of Waterloo
-* Calculus 3 for Chemical Engineering (Fall 2020)
-* Calculus 2 for Engineering (Winter 2020)
-* Calculus 2 for the Sciences (Winter 2020)
-* Calculus 1 for Engineering (Fall 2019)
-* Calculus 1 for Sciences (Fall 2019)
-
 Awards
 ======
 * CGCS Graduate Student Research Award, Centre for Global Change Science (CGCS), 2024
@@ -82,4 +66,20 @@ Professional Activities
 * Secretary - Graduate Environmental Students’ Association, 2023 - present
 * School of the Environment Graduate Affairs Committee, 2023 - 2024
 * Physics Graduate Program Committee, 2023 - 2024
+
+Teaching Assistantships
+======
+University of Toronto
+* ENV 237: Physics of the Changing Environment (Winter 2024)
+* Physics 407: Computational Physics (Fall 2023/2024)
+* Physics 131: Introduction to Physics I (Fall 2022/2023/2024)
+* Physics 132: Introduction to Physics II (Winter 2022/2023)
+* Physics 180: Elements of Physics I (Fall 2021)
+
+University of Waterloo
+* Calculus 3 for Chemical Engineering (Fall 2020)
+* Calculus 2 for Engineering (Winter 2020)
+* Calculus 2 for the Sciences (Winter 2020)
+* Calculus 1 for Engineering (Fall 2019)
+* Calculus 1 for Sciences (Fall 2019)
 
