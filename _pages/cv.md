@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Atmospheric Physics, University of Toronto, 2022 - present
+* Ph.D. in Atmospheric Physics, Collaborative Specialization in Environmental Studies, University of Toronto, 2022 - present
 * M.Sc. in Atmospheric Physics, University of Toronto, 2022
 * M.Math in Computational Mathematics, University of Waterloo, 2020
 * H.B.Sc. in Applied Mathematics, University of Toronto, 2019
