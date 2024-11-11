@@ -53,6 +53,7 @@ Talks
 
 Awards
 ======
+* Beatrice and Arthur Minden Graduate Research Fellowship, School of the Environment, 2024
 * CGCS Graduate Student Research Award, Centre for Global Change Science (CGCS), 2024
 * CPE Research Day Bronze Price Winner, Climate Positive Energy (CPE), 2023
 * Climate Solutions Scholar, Climate Positive Energy (CPE), 2023
