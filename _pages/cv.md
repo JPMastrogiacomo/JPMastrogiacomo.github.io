@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Atmospheric Physics, Collaborative Specialization in Environmental Studies, University of Toronto, 2022 - present
+* Ph.D. in Atmospheric Physics\
+  Collaborative Specialization in Environmental Studies\
+  University of Toronto, 2022 - present
 * M.Sc. in Atmospheric Physics, University of Toronto, 2022
 * M.Math in Computational Mathematics, University of Waterloo, 2020
 * H.B.Sc. in Applied Mathematics, University of Toronto, 2019
@@ -35,6 +37,8 @@ Research experience
 
 Publications
 ======
+__Mastrogiacomo J-P__, Crippa M, MacDonald CG, Roehl C, & Wunch D (2025). Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Authorea Preprints (in review). <https://doi.org/10.22541/essoar.173757114.41649113/v1>.
+
 Moeini O, Nassar R, __Mastrogiacomo J-P__, Dawson M, O’Dell CW, Nelson RR, & Chatterjee A. (2025). Quantifying CO2 Emissions From Smaller Anthropogenic Point Sources Using OCO-2 Target and OCO-3 Snapshot Area Mapping Mode Observations. Journal of Geophysical Research: Atmospheres, 130, e2024JD042333. <https://doi.org/10.1029/2024JD042333>.
 
 Nelson RR, Cusworth DH, Thorpe AK, Kim J, Elder CD, Nassar R, & __Mastrogiacomo J‐P__. (2024). Comparing point source CO2 emission rate estimates from near‐simultaneous OCO-3 and EMIT observations. Geophysical Research Letters, 51, e2024GL113002. <https://doi.org/10.1029/2024GL113002>.
@@ -75,7 +79,7 @@ Professional Activities
 Teaching Assistantships
 ======
 University of Toronto
-* ENV 237: Physics of the Changing Environment (Winter 2024)
+* ENV 237: Physics of the Changing Environment (Winter 2024/2025)
 * Physics 407: Computational Physics (Fall 2023/2024)
 * Physics 131: Introduction to Physics I (Fall 2022/2023/2024)
 * Physics 132: Introduction to Physics II (Winter 2022/2023)
