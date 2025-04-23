@@ -81,6 +81,7 @@ Teaching Assistantships
 University of Toronto
 * ENV 237: Physics of the Changing Environment (Winter 2024/2025)
 * Physics 407: Computational Physics (Fall 2023/2024)
+* Physics 198: Physics at the Cutting Edge (Winter 2024)
 * Physics 131: Introduction to Physics I (Fall 2022/2023/2024)
 * Physics 132: Introduction to Physics II (Winter 2022/2023)
 * Physics 180: Elements of Physics I (Fall 2021)
