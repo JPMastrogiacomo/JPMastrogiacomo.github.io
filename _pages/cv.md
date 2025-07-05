@@ -37,7 +37,7 @@ Research experience
 
 Publications
 ======
-__Mastrogiacomo J-P__, Crippa M, MacDonald CG, Roehl C, & Wunch D (2025). Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Authorea Preprints (in review). <https://doi.org/10.22541/essoar.173757114.41649113/v1>.
+__Mastrogiacomo J-P__, Crippa M, MacDonald CG, Roehl C, & Wunch D (2025). Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Journal of Geophysical Research: Atmospheres, 130, e2025JD043394. <https://doi.org/10.1029/2025JD043394>.
 
 Moeini O, Nassar R, __Mastrogiacomo J-P__, Dawson M, O’Dell CW, Nelson RR, & Chatterjee A. (2025). Quantifying CO2 Emissions From Smaller Anthropogenic Point Sources Using OCO-2 Target and OCO-3 Snapshot Area Mapping Mode Observations. Journal of Geophysical Research: Atmospheres, 130, e2024JD042333. <https://doi.org/10.1029/2024JD042333>.
 
