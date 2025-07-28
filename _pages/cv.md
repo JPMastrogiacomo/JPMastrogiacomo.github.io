@@ -53,8 +53,10 @@ Nassar R, __Mastrogiacomo J-P__, Bateman-Hemphill W, McCracken C, MacDonald CG, 
 
 D’Alessio S, __Mastrogiacomo J-P__, & Pascal J-P (2021). Journal of Physics: Conference Series, 2090, 012114. <https://doi.org/10.1088/1742-6596/2090/1/012114>.
   
-Talks
+Posters
 ======
+* Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO (IWGGMS-21)
+* Partitioning Oil and Gas Methane Emissions with TCCON Ethane Measurements (AGU 2024)
 * Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (IWGGMS-20)
 * Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (AGU 2023)
 * Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images (IWGGMS-17)
