@@ -74,7 +74,7 @@ Awards
 Professional Activities
 ======
 * Noble Seminar/Lecture Series Committee, 2022 - present
-* Secretary - Graduate Environmental Students’ Association, 2023 - present
+* Secretary - Graduate Environmental Students’ Association, 2023 - 2025
 * School of the Environment Graduate Affairs Committee, 2023 - 2024
 * Physics Graduate Program Committee, 2023 - 2024
 
@@ -82,6 +82,7 @@ Teaching Assistantships
 ======
 University of Toronto
 * ENV 237: Physics of the Changing Environment (Winter 2024/2025)
+* Physics 100: The Magic of Physics (Fall 2025)
 * Physics 407: Computational Physics (Fall 2023/2024)
 * Physics 198: Physics at the Cutting Edge (Winter 2024)
 * Physics 131: Introduction to Physics I (Fall 2022/2023/2024)
