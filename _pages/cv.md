@@ -57,6 +57,7 @@ D’Alessio S, __Mastrogiacomo J-P__, & Pascal J-P (2021). Journal of Physics: C
   
 Posters
 ======
+* Partitioning Canadian Oil and Gas Methane Emissions with TCCON and Aircraft Ethane Measurements (EGU 2026)
 * Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO (IWGGMS-21)
 * Partitioning Oil and Gas Methane Emissions with TCCON Ethane Measurements (AGU 2024)
 * Assessing Urban Methane Emissions with Satellite-Derived Enhancement Ratios (IWGGMS-20)
