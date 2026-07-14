@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+---
+Guo X, __Mastrogiacomo J-P__, Wunch D, Dressel IM, Miles AM, Gao Z, Gallego A, and Pusede SE (2026). TROPOMI CO and NO2 as Observational Constraints on the Sources of Air Pollution Inequalities in US Cities. Environmental Science & Technology, 60(27), 19397-19412. <https://doi.org/10.1021/acs.est.5c07455>.
+
 2025
 ---
 __Mastrogiacomo J-P__, Crippa M, MacDonald CG, Roehl C, & Wunch D (2025). Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Journal of Geophysical Research: Atmospheres, 130, e2025JD043394. <https://doi.org/10.1029/2025JD043394>.
