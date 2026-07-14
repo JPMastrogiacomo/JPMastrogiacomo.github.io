@@ -85,7 +85,7 @@ Professional Activities
 Teaching Assistantships
 ======
 University of Toronto
-* ENV 237: Physics of the Changing Environment (Winter 2024/2025)
+* ENV 237: Physics of the Changing Environment (Winter 2024/2025/2026)
 * Physics 100: The Magic of Physics (Fall 2025)
 * Physics 407: Computational Physics (Fall 2023/2024)
 * Physics 198: Physics at the Cutting Edge (Winter 2024)
