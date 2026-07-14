@@ -37,6 +37,8 @@ Research experience
 
 Publications
 ======
+Guo X, __Mastrogiacomo J-P__, Wunch D, Dressel IM, Miles AM, Gao Z, Gallego A, and Pusede SE (2026). TROPOMI CO and NO2 as Observational Constraints on the Sources of Air Pollution Inequalities in US Cities. Environmental Science & Technology, 60(27), 19397-19412. <https://doi.org/10.1021/acs.est.5c07455>.
+
 __Mastrogiacomo J-P__, Crippa M, MacDonald CG, Roehl C, & Wunch D (2025). Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Journal of Geophysical Research: Atmospheres, 130, e2025JD043394. <https://doi.org/10.1029/2025JD043394>.
 
 Moeini O, Nassar R, __Mastrogiacomo J-P__, Dawson M, O’Dell CW, Nelson RR, & Chatterjee A. (2025). Quantifying CO2 Emissions From Smaller Anthropogenic Point Sources Using OCO-2 Target and OCO-3 Snapshot Area Mapping Mode Observations. Journal of Geophysical Research: Atmospheres, 130, e2024JD042333. <https://doi.org/10.1029/2024JD042333>.
